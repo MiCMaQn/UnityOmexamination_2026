@@ -130,7 +130,7 @@ GameObject:
   - component: {fileID: 614502217}
   - component: {fileID: 614502218}
   m_Layer: 0
-  m_Name: menumanager
+  m_Name: scenechanger
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -176,7 +176,7 @@ GameObject:
   - component: {fileID: 1065177235}
   - component: {fileID: 1065177234}
   m_Layer: 5
-  m_Name: Button
+  m_Name: startbutton
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -627,7 +627,7 @@ GameObject:
   - component: {fileID: 1571352075}
   - component: {fileID: 1571352074}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: startbuttontext
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -764,7 +764,7 @@ GameObject:
   - component: {fileID: 1580647960}
   - component: {fileID: 1580647959}
   m_Layer: 5
-  m_Name: Text (TMP)
+  m_Name: titletext
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
